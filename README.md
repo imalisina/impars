@@ -1,7 +1,7 @@
 <h1 align="center">Pars Barghandan</h1>
 <h3 align="center">A Programmer from Milky Way 🌌</h3>
 
-- 🌱 I’m currently working on **Averon** & **Cogni** 
+- 🌱 I’m currently working on **Noxi** 
 
 <p align="left">
 </p>
